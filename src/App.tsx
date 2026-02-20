@@ -245,6 +245,9 @@ export default function App() {
           </Button>
         </div>
       </div>
+      <p className="fixed bottom-4 right-4 text-xs text-muted-foreground/50">
+        by <a href="https://github.com/mshik3" target="_blank" rel="noopener noreferrer" className="hover:text-muted-foreground transition-colors">mshik3</a>
+      </p>
     )
   }
 
