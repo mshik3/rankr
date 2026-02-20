@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#0f0f0f"/>
+
+  <!-- Subtle grid lines -->
+  <line x1="0" y1="210" x2="1200" y2="210" stroke="#1f1f1f" stroke-width="1"/>
+  <line x1="0" y1="420" x2="1200" y2="420" stroke="#1f1f1f" stroke-width="1"/>
+  <line x1="400" y1="0" x2="400" y2="630" stroke="#1f1f1f" stroke-width="1"/>
+  <line x1="800" y1="0" x2="800" y2="630" stroke="#1f1f1f" stroke-width="1"/>
+
+  <!-- Podium bars (decorative, right side) -->
+  <rect x="820" y="300" width="80" height="230" rx="8" fill="#27272a"/>
+  <rect x="920" y="200" width="80" height="330" rx="8" fill="#3f3f46"/>
+  <rect x="1020" y="370" width="80" height="160" rx="8" fill="#27272a"/>
+
+  <!-- Rank numbers on bars -->
+  <text x="860" y="370" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="700" fill="#71717a" text-anchor="middle">2</text>
+  <text x="960" y="290" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="700" fill="#a1a1aa" text-anchor="middle">1</text>
+  <text x="1060" y="440" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="700" fill="#71717a" text-anchor="middle">3</text>
+
+  <!-- Title -->
+  <text x="100" y="260" font-family="system-ui, -apple-system, sans-serif" font-size="120" font-weight="700" fill="#ffffff" letter-spacing="-4">rankr</text>
+
+  <!-- Tagline -->
+  <text x="100" y="340" font-family="system-ui, -apple-system, sans-serif" font-size="32" fill="#71717a">rank anything, head to head</text>
+
+  <!-- URL -->
+  <text x="100" y="530" font-family="system-ui, -apple-system, sans-serif" font-size="24" fill="#3f3f46">rankr.pages.dev</text>
+</svg>

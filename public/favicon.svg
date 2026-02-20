@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Background -->
+  <rect width="32" height="32" rx="8" fill="#0f0f0f"/>
+  <!-- Podium bars: 2nd, 1st, 3rd -->
+  <rect x="3" y="18" width="7" height="11" rx="1.5" fill="#e4e4e7"/>
+  <rect x="12.5" y="11" width="7" height="18" rx="1.5" fill="#ffffff"/>
+  <rect x="22" y="22" width="7" height="7" rx="1.5" fill="#71717a"/>
+</svg>
